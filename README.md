@@ -1,0 +1,1 @@
+# schoolscore_patika.dev
